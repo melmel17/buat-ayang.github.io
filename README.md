@@ -1,8 +1,8 @@
 # WebBucin-V2
-Web Bucin V2 khusus buat orang tercinta &amp; tersayang.
+Web Bucin V2 khusus buat putri aulia.
 
 # Demo Site
- <a href="https://wafarifki.github.io/WebBucin-V2/">https://wafarifki.github.io/WebBucin-V2/</a>
+ <a href="https://r1zk1725.github.io/buat-ayang.github.io/">https://r1zk1725.github.io/buat-ayang.github.io/</a>
 
 # Let's connect with me!
 <p>
